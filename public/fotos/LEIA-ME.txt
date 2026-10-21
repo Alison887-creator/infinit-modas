@@ -1,0 +1,14 @@
+Coloque aqui as fotos reais da Infinit Modas (JPG) com estes nomes.
+Cada foto aparece no site automaticamente; enquanto ela não existir, o site mostra um fundo decorativo.
+
+destaque.jpg      -> foto grande do topo (vertical, ex.: 1200x1500)
+vestidos.jpg      -> categoria Vestidos
+blusas.jpg        -> categoria Blusas & Camisas
+calcas.jpg        -> categoria Calças & Saias
+conjuntos.jpg     -> categoria Conjuntos
+acessorios.jpg    -> categoria Acessórios
+loja.jpg          -> foto da loja por dentro (vertical)
+detalhe.jpg       -> detalhe de peças/acessórios (quadrada)
+insta-1.jpg ... insta-6.jpg -> fotos do Instagram (quadradas)
+
+Depois de adicionar as fotos, rode "npm run build" de novo.
